@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**xiaowan-global/xiaowan-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​​【项目名称】问题反馈与功能建议仓库​
 
-Here are some ideas to get you started:
+此仓库是接收和处理所有关于 小湾出行​​ 的反馈的官方平台。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•
+​🐛 错误报告​：如果您发现了程序错误，请先搜索是否已有相关问题，然后新建一个 Issue 并提供详细的复现步骤。
+
+•
+​💡 功能请求​：如果您有能让产品变得更好的想法，我们非常期待听到您的声音！
+
+•
+​❓ 使用疑问​：对于一般性的使用问题，请先查阅我们的 [官方文档] 或 [社区论坛]（如果有的话）。
+
+​提交前请确认​：请阅读我们的 [贡献指南]（如果有），以确保问题能够被高效处理。
